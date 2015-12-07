@@ -1,0 +1,35 @@
+* {box-sizing: border-box;}
+
+body {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.logo {
+  height: 7em;
+}
+
+header {
+  background: grey;
+  margin: auto;
+}
+
+nav.top {
+  background: lightblue;
+  margin: 0;
+  padding: 0;
+  padding-right: 4%;
+  text-align: right;
+}
+
+nav.top li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  padding-left: 2%;
+}
+
+main img {
+  width: 48.5%;
+}
